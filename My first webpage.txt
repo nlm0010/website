@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title example</title>
+  </head>
+  <body>
+    <p>
+      <strong>Welcome to my first webpage</strong><br>
+    </p>
+    <img src="https://www.pngitem.com/middle/iThmbm_15-hi-emoji-or-hand-wave-emoji-heart/NENAD LUKA/wavin_emoji">
+    <p>What`s your name?</p>
+    <input placeholder="Name" type="text"><br>
+    <p>What date is it?</p>
+    <input placeholder="Date" type="date">
+    <p>Click this button</p>
+    <p>
+      <em>Warning: nothing will happen!</em>
+    </p>
+    <button>Click me</button>
+    <p>How would you rate your courage?</p><br>
+    <input type="range">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">test it</a><!--A LINK TO RICK ASTLEY-->
+  </body>
+</html>
